@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Login Gota.io
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-30
-// @description  try to take over the world!
-// @author       You
+// @version      1.0.0
+// @description  That is a login for game Gota.io
+// @author       Flashen
 // @match        https://gota.io/web/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=gota.io
-// @grant        none
+// @updateURL    https://raw.githubusercontent.com/zFalshen/user.js/main/user.js
+// @downloadURL  https://raw.githubusercontent.com/zFalshen/user.js/main/user.js
 // ==/UserScript==
 
 (function() {
