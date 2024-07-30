@@ -12,8 +12,8 @@
 (function() {
     'use strict';
 
-    const correctUsername = "weynoyungtrappa";
-    const correctPassword = "weynoweyno12345";
+    const correctUsername = "weynoTigr";
+    const correctPassword = "weyno5";
 
     function login() {
         const username = prompt("Введите логин:");
