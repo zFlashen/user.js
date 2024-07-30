@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Login Gota.io
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  That is a login for game Gota.io
 // @author       Flashen
 // @match        https://gota.io/web/
